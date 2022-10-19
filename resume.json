@@ -1,0 +1,37 @@
+{
+    "about": [
+        {
+            "name": "Dhinesh T",
+            "email": "dhinesh@gmail.com",
+            "mobile": "+917823487223",
+            "date of birth": "30.05.1996",
+            "age": "26",
+            "native": "chennai",
+            "pincode": "600001",
+            "language known": "Tamil and English"
+        }
+    ],
+    "education": [
+        {
+            "senior secondary percentile": "98%",
+            "higher secondary percentile": "91%",
+            "degree": "Bachelor of engineering",
+            "degree major": "Electrical and Electronics Engineering",
+            "degree percentile": "7.00%"
+        }
+    ],
+    "interest and technical skills": [
+        {
+            "interest": "Futuristic things, Auto Pilot, Digital marketing",
+            "Programming language": "Basics of java",
+            "Softwares known": "Adobe Photoshop, After effects, Pspice, Matlab",
+            "Blog": "Created a educational blog named AspirantsNetworks"
+        }
+    ],
+    "Activities and Achievements": [
+        {
+            "Extra curricular activities": "Software committee head in college event and Member in media and maintenance club",
+            "Achievements": "Developed a automation bot"
+        }
+    ]
+}
